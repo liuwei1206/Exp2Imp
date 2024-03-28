@@ -15,3 +15,7 @@ Please refer to the preprocessing.py in [ConnRel](https://github.com/liuwei1206/
 
 **For Gum dataset**
 
+Since the Gum dataset is publicly available, we release the processed corpus in "data/dataset/gum7".
+
+## 3. Run
+
