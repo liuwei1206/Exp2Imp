@@ -50,7 +50,7 @@ def get_argparse():
     parser.add_argument("--data_dir", default="data/dataset", type=str)
     parser.add_argument("--dataset", default="pdtb2", type=str, help="pdtb2, pdtb3")
     parser.add_argument("--output_dir", default="data/result", type=str)
-    parser.add_argument("--model_type", default="base", type=str, help="base, multi-task, two-encoder")
+    parser.add_argument("--model_type", default="two-encoder", type=str, help="base, two-encoder")
     parser.add_argument("--encoder_type", default="roberta", type=str)
     parser.add_argument("--model_name_or_path", default="roberta-base", type=str, help="roberta-base")
     parser.add_argument("--label_file", default="labels_2.txt", type=str, help="the label file path")

@@ -444,7 +444,9 @@ def main():
         without_conn = True
         with_conn = False
         do_write = False
-        do_train = False
+        do_train = True
+        args.do_dev = False
+        args.do_test = False
         for epoch in range(5, 11):
             checkpoint_file = temp_file.format(str(epoch))
             print("Epoch=%d, checkpoint=%s"%(epoch, checkpoint_file))
@@ -622,7 +624,7 @@ def main():
             imp_dataloader = imp_test_dataloader
             imp_conn_dataloader = imp_conn_test_dataloader
 
-        for epoch in range(5, 6):
+        for epoch in range(10, 11):
             checkpoint_file = temp_file.format(str(epoch))
             print("Epoch=%d, checkpoint=%s" % (epoch, checkpoint_file))
             args.output_dir = os.path.dirname(checkpoint_file)

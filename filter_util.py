@@ -215,3 +215,41 @@ def filter_samples_with_distance_per_label(
                 f.write("%s\n" % (json.dumps(sample, ensure_ascii=False)))
 
     return filter_texts, new_dataset
+
+
+def sample_same_size_corpus(dataset="pdtb2", relation_type="explicit", label_level=1, need_size=6000):
+    """
+    Prepare data for E2I-Reduced and I2I-Reduced baselines
+    """
+    data_file = "data/dataset/{}/train.json".format(dataset)
+    all_res, all_samples = read_json(data_file, relation_type, label_level)
+    print(len(all_samples))
+    random.shuffle(all_samples)
+    samples = all_samples[:need_size]
+
+
+    new_dataset = "data/dataset/{}_l{}_{}_{}".format(dataset, label_level, relation_type[:3], need_size)
+    os.makedirs(new_dataset, exist_ok=True)
+    new_data_file = os.path.join(new_dataset, "train.json")
+    print(new_data_file)
+    label_frequency = defaultdict(int)
+    with open(new_data_file, "w", encoding="utf-8") as f:
+        for sample in samples:
+            f.write("%s\n"%(sample))
+            rel = get_label_from_sample(sample, label_level)
+            label_frequency[rel] += 1
+
+    print(label_frequency)
+
+
+if __name__ == "__main__":
+    need_size_dict = {
+        "pdtb2+l1": 5689,
+        "pdtb2+l2": 6438,
+        "pdtb3+l1": 8843,
+        "pdtb3+l2": 8342,
+        "gum+l1": 3339,
+        "gum7+l1": 2405
+    }
+    need_key = "{}+l{}".format(dataset, label_level)
+    sample_same_size_corpus(dataset, source_type, label_level, need_size_dict[need_key])
