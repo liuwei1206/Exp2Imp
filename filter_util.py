@@ -175,18 +175,31 @@ def filter_samples_with_distance_per_label(
         rel_name = default_pred[0].strip().lower()
         d_score = float(default_pred[2].strip())
         c_score = float(conn_pred[2].strip())
-
-        if distance >= per_label_threshold[l_id]:
-            if c_score >= min_confidence:
-                filter_texts.append(raw_text)
-                filter_scores.append((distance, d_score, c_score))
-                fine_num += 1
+        
+        if "pdtb" in dataset.lower():
+            if distance >= per_label_threshold[l_id]:
+                if c_score >= min_confidence:
+                    filter_texts.append(raw_text)
+                    filter_scores.append((distance, d_score, c_score))
+                    fine_num += 1
+                else:
+                    weak_num += 1
             else:
-                weak_num += 1
-        else:
-            ambi_num += 1
-            ambiguous_texts.append(raw_text)
-            ambiguous_scores.append((distance, d_score, c_score))
+                ambi_num += 1
+                ambiguous_texts.append(raw_text)
+                ambiguous_scores.append((distance, d_score, c_score))
+        elif "gum" in dataset.lower():
+            if distance >= per_label_threshold[l_id] or distance >= 0.6:
+                if c_score >= min_confidence:
+                    filter_texts.append(raw_text)
+                    filter_scores.append((distance, d_score, c_score))
+                    fine_num += 1
+                else:
+                    weak_num += 1
+            else:
+                ambi_num += 1
+                ambiguous_texts.append(raw_text)
+                ambiguous_scores.append((distance, d_score, c_score))
 
     print("(%.2f) for %s, fine num:%d, weak num: %d, ambi num: %d" % (
             min_confidence, mode, fine_num, weak_num, ambi_num

@@ -1,0 +1,7 @@
+joint
+adversative
+context
+causal
+elaboration
+explanation
+contingency

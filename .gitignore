@@ -1,5 +1,7 @@
 *.pyc
 .idea
 test.py
-data
+data/dataset/pdtb2
+data/dataset/pdtb3
+data/result
 logs

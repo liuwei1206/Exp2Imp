@@ -1,6 +1,6 @@
 # <<"COMMENT"
-python3 kfold_base.py --do_vector \
-                      --dataset="pdtb2"  \
+python3 kfold_base.py --do_dev --do_vector \
+                      --dataset="gum7"  \
                       --label_file="labels_1.txt" \
                       --relation_type="explicit" \
                       --target_type="explicit" \

@@ -1,0 +1,529 @@
+Label           	Pred            	Prob    	Text
+joint           	explanation     	0.0217	1 The canopy must be steered away from power lines and similar obstructions ; try a large body of water
+context         	context         	0.7703	following increased attention the tom cruise video appeared on the internet.
+joint           	joint           	0.6268	since it is fundamental to the learning process be recurring complaint among parents and teachers in schools.
+elaboration     	elaboration     	0.5950	He also had a lead role in the critically acclaimed British mini-serial Dancing on the Edge, as music journalist Stanley Mitchell, which he earned a nomination for best actor in a miniseries or a television film at the satellite awards.
+causal          	context         	0.1149	2 water engulfed Beringia, the bering strait was formed.
+elaboration     	elaboration     	0.5479	Jenna Nicole Mourey <*> is an American YouTube personality, vlogger, comedian and actress. of march 2019, her channel has approximately 3.1 billion video views and 19.5 million subscribers,
+joint           	joint           	0.9158	The Jewish community was practically wiped out, many others lost their lives.
+causal          	causal          	0.7790	My shoes were white i was concentrating on keeping them out of the mud.
+explanation     	joint           	0.0026	3 that our moral beliefs are unjustified ( they are not sensitive ).
+joint           	joint           	0.9875	and pick out one - several -
+joint           	joint           	0.9640	Since the CFLs are the most commonly used light bulbs in the residential has a great compatibility to led in terms of design and materials,
+explanation     	explanation     	0.2549	And if by — and — and it is by the divine prerogative, that man will — uh, that man is well provided for. god alone is infallible,
+joint           	joint           	0.9883	of ensuring universal access to education increasing the internet penetration in all parts of the country,
+context         	explanation     	0.0865	4 I would challenge anyone not to feel hopeful today listening to amanda gorman, the amazing 22 – year - old poet, wise far beyond her years,
+causal          	adversative     	0.0379	5 She wrote relatively little of living a brief life
+causal          	context         	0.0638	6 about moving it it will be on the year before the paralympics.
+context         	context         	0.7386	then call the local harbour master you near the chathams
+joint           	joint           	0.9721	Guadeloupe, <*> is a group of islands in the eastern Caribbean, is a french overseas department.
+joint           	joint           	0.9879	that collected samples from comet 81P/Wild <*> in deep space landed back on earth on january 15, 2006.
+context         	context         	0.9337	established by Shah Abbas I in the 1600s he destroyed the prosperous armenian town of julfa in armenia
+contingency     	joint           	0.2159	7 If this is a solo jump, skip to step 6.
+causal          	context         	0.1667	8 If someone wanted to re-record a chapter they didn't like the speaker,
+context         	context         	0.6486	that it was wrong for him to withhold military aid to Ukraine the president of that country promised to interfere in the american elections.
+adversative     	adversative     	0.4903	we measured the length and mid-shaft cross-sectional properties of the femur in all our individuals., we found no differences in cross-sectional femoral geometry among groups.
+adversative     	causal          	0.1257	9 To those <*> -- to my family, my friends, to many others <*> I will be eternally grateful for your support. to those <*> i leave with no bitterness toward those
+joint           	joint           	0.6558	Somehow we ’ve weathered witnessed a nation
+causal          	causal          	0.6599	that <*> then I 'll be more inclined to go to the gym i don't have to like change ootd haha.
+joint           	joint           	0.9858	when our most vulnerable and historically marginalized communities, people of color, those <*> Americans with disabilities are being targeted sometimes killed.
+context         	context         	0.5894	The 30th anniversary of the first shuttle mission coincided with the 50th anniversary of the first manned space flight yuri gagarin lifted off aboard vostok 1 into space.
+joint           	joint           	0.9739	Some innovations can lead to disruptions within the industry, even create a new industry.
+joint           	joint           	0.8537	by covering a wider period focusing on enjambment.
+joint           	joint           	0.7615	He made his first attempt <*> under the guidance of a converted Jew ; he seems to have been in correspondence with jewish christians in antioch.
+adversative     	adversative     	0.9629	well not millions,,
+causal          	joint           	0.0063	10 The area has a milder climate than the country's average, <*> is home to flora and fauna
+adversative     	adversative     	0.8827	No, it was a joke.
+context         	elaboration     	0.0254	11 and then you can see this little white line? that's kinda where you go by, to —
+joint           	joint           	0.8991	My day really did turn around um i didn't feel as bad
+adversative     	adversative     	0.9375	“ Okay. no roughhousing.
+adversative     	adversative     	0.9735	Light always follows the shortest path — that path may not always be straight.
+joint           	joint           	0.9815	Both teams start from the edges attempt to obtain the quaffle and bludgers.
+joint           	joint           	0.9873	Cara holding Mom ’s hand sniffling.
+adversative     	adversative     	0.9441	His early work focused primarily on language teaching reform and on phonetics, he is best known for his later work on syntax and on language development.
+causal          	causal          	0.6818	whose name did n’t appear on the book originally, ensuring the confusion.
+joint           	joint           	0.9835	And yeah I'm gon na head back and just keep driving
+context         	context         	0.9289	and those writers training the new writers they come in.
+elaboration     	context         	0.1417	12 You can establish you own rules to how a player catches the snitch.
+joint           	joint           	0.7266	Here, she met her future husband subsequently left the church.
+adversative     	adversative     	0.9462	What ’s funny to a group of 20 - year old college students may be very different from what makes your 70 - year old - uncle laugh ( again, maybe not ).
+context         	causal          	0.1930	13 A string of islands and reefs along the eastern edge of the Group shelters the area from strong winds and ocean swellS humpback whales come to these protected waters
+joint           	joint           	0.9798	and in particular they do not touch women take things from women's hands.
+contingency     	joint           	0.0890	14 break big activities into smaller bits necessary.
+joint           	joint           	0.9724	Many Black regiments were limited to hauling supplies, serving cooks,
+joint           	joint           	0.9849	he lectured at the Congress of Arts and Sciences in St. Louis in 1904, in 1909 – 1910 he visited both the university of california and columbia university.
+joint           	joint           	0.9882	where attendees could wear a Warhol - like wig or don crazy glasses have their own polaroid taken.
+adversative     	adversative     	0.9614	To a few of us here today this is a solemn and most momentous occasion, yet in the history of our nation it is a commonplace occurrence.
+joint           	joint           	0.5249	and we are just driving the uh – Going to the Sun Road we ’re just gon na stop along
+adversative     	adversative     	0.8779	Pachomius gave Theodorus complete control over Tabennese, recalled him from the position
+context         	causal          	0.3868	15 I visited the festival on Saturday night, the opening night, there was a sea of people in the square.
+explanation     	contingency     	0.1086	16 you're probably just having fun play nicely.
+context         	joint           	0.0015	17 Eight months old potty trained.
+joint           	joint           	0.9825	Jespersen in this theory of ranks removes the parts of speech from the syntax, differentiates between primaries, secondaries, and tertiaries ;
+joint           	joint           	0.7847	In 1835 Maori settlers from the mainland arrived, enslaved the moriori.
+adversative     	adversative     	0.9708	Most other islands are closed during much of the year for the protection of local wildlife. the remainder of the year, short stays are permitted,
+adversative     	adversative     	0.9470	She wails, lets me disentangle her hands.
+explanation     	explanation     	0.4678	I 'd still recommend like taking the trail up there it has a really cool like overlook of the city
+adversative     	adversative     	0.9720	Some people would consider it more of a personal outlook than a learning practice, yet it has a significant influence on the ability
+context         	context         	0.8498	He became a Christian at a young age, he responded to the altar call at his church
+joint           	joint           	0.9757	It can be seen across the water from Neiafu is connected by land bridge at the most southern point of ‘utu vava’u.
+context         	context         	0.6013	Texans'hopes for independence were quashed in 1834, however, santa anna dismissed the mexican congress
+adversative     	adversative     	0.9169	he – you can, then you can't, sometimes, some of the things
+adversative     	explanation     	0.2601	18 Is n’t the answer to that question that wise decisions are made with a basis from memory? a computer can have …
+adversative     	explanation     	0.2221	19 Jacques Chalmers was not alone in his frustration with the current situation, he was doubtless one of the most panicked.
+explanation     	adversative     	0.0109	20 They do check the cart as you leave don't try to sneak anything past them.
+causal          	causal          	0.4361	given by the Jóola Búluf and Jóola Fogny speakers to Eegimaa people and their language, people from the village of banjal were the first
+context         	context         	0.9257	that set in you bit down into the acrid resin jelly
+context         	context         	0.9086	He was not baptized until about 360 - 366, he had gone to rome with his friend bonosus of sardica
+joint           	joint           	0.8576	I literally just pretty much woke up left this morning.
+contingency     	contingency     	0.6733	try substituting it for walnut or macadamia nut oils they are available to you.
+joint           	causal          	0.3497	21 she wasn't wearing a mask, she was like obviously coughing um.
+joint           	joint           	0.9786	although he continued to give lectures in universities all around the world, lived in alpine, arizona, usa ; madrid, spain and brussels, belgium.
+joint           	joint           	0.9876	The posterior displacement of the CoM produced a more vertically oriented femur during standing <*> and increased femoral retraction decreased knee flexion during walking.
+context         	causal          	0.0818	22 feathers – fevers are like, um, good for babies like, they're i- b- getting sick,
+adversative     	adversative     	0.8537	why some Republicans may not like it,, as a democrat, as one <*> as one <*> i am proud to be here in philadelphia.
+context         	causal          	0.4381	23 but it feels like summer here i never miss a year of mermaid content.
+causal          	joint           	0.0042	24 that there is a nine - hour difference between Sochi and New York, and a 12 - hour difference between Sochi and the US West Coast. daytime events will be shown live in the united states in the middle of the night,
+context         	causal          	0.1007	25 " The effects of iodine deficiency are dependent upon how severe it is and when it occurs. <*> she won't make enough thyroid hormone,
+causal          	joint           	0.1811	26 Yeah, you made him aggressive,, he's gon na like, try to tear everything up now.
+causal          	joint           	0.0607	27 the more dangerous that person is to their fantasy land. in turn, <*> the harsher the criticism.
+joint           	joint           	0.9889	that reduces existing uncertainty guarantees property rights.
+elaboration     	joint           	0.3503	28 outside the hangar, known orbiter processing facility - 1,
+context         	context         	0.5153	Or you could just scoop them out the color dissolves.
+explanation     	causal          	0.0605	29 So it changes, one year we got to be in the press,
+context         	adversative     	0.0066	30 Now this uh th- twenty - six percent, that 'd be be social security. what else would it include?
+explanation     	joint           	0.0056	31 You get to walk through all these gardens and different types of roses from different parts of the world yeah it was just really cool.
+joint           	joint           	0.9812	long known to Luther, many times presented to him,
+elaboration     	explanation     	0.2329	32 From Langeland there are ferries to some other islands. easy reference ferries are listed under the individual islands.
+context         	adversative     	0.0023	33 He ministered for a short time among the Tarahumara Indians in Chihuahua, Mexico, health problems due to an inadequate diet and the high altitude forced him to leave.
+joint           	joint           	0.7372	because there was not a whole lot of cloud coverage that day, it was so hot.
+causal          	causal          	0.5887	But her mom wouldn't let her. she went home
+joint           	joint           	0.9868	to monitor the situation give ongoing advice.
+joint           	joint           	0.9765	its heart rate lowers it stops moving.
+joint           	joint           	0.6816	curb your enthusiasm resist the urge
+joint           	joint           	0.9866	that not only suits your needs, but gives you ownership over your own learning processes.
+joint           	joint           	0.9873	lest the hidden face rise above the waters, and the hidden eyes look at me after the slinking away of that leering and treacherous yellow moon.
+elaboration     	joint           	0.2396	34 They do make a host of florescent proteins, these may interact with the light of the rov
+adversative     	joint           	0.0326	35 Everyone ’s just watching the weird retarded girl this one chubby guy
+context         	context         	0.9584	He entered the University of Copenhagen in 1877 he was 17,
+joint           	joint           	0.9470	who have been cut off from us by political boundaries who unhappily can not share at present in the freedom
+joint           	joint           	0.9867	that he was related, <*> had business with steitler,
+context         	context         	0.9476	changing his first name from Pierre to Peter he first came to the rebelling colonies in 1777.
+explanation     	adversative     	0.0201	36 No, she doesn't —
+joint           	joint           	0.9886	with his coat thrown over his shoulders his hands in his pockets.
+joint           	joint           	0.9881	The island lies in deep water has sheltered waters and bays
+joint           	joint           	0.7786	just watching him. — and watching, people come to our place,
+joint           	explanation     	0.0034	37 However, Dumas is alone in this assertion, <*> it is unclear why d'herbinville would have been involved.
+context         	joint           	0.0016	38 On September 17, 1859, he took matters into his own hands distributed letters to the various newspapers in the city,
+joint           	joint           	0.7336	The palpitating greyness grew darker ; <*> the blinking succession of day and night, <*> returned,
+joint           	causal          	0.0433	39 About 87 percent of 21.0 million households used electricity from March to August 2011. of 2016, the demand for electricity in the residential is leading among the different sectors.
+contingency     	adversative     	0.1055	40 how you birds got on that board, you're not political appointees.
+joint           	elaboration     	0.0749	41 teaching at Tsinghua, beginning a survey of the wu dialects in 1926.
+elaboration     	joint           	0.0350	42 set time - frames your items to be done by.
+joint           	causal          	0.2060	43 that Afghan women can make robots too we can improve in this section
+elaboration     	adversative     	0.0387	44 the category of li <*> is merely the 10th of the 24 aesthetic categories, the top six were harmony, tranquillity, clarity, profundity, antiquity, subtlety.
+elaboration     	adversative     	0.0563	45 you can add genders like most European languages like French and German., <*> you may want'the horse'to be'mat fereder ',
+joint           	joint           	0.9870	And then she had to scan go get the shoes
+context         	context         	0.6464	I'm up very late i wanted to show that, finals as a college student,
+explanation     	contingency     	0.0595	46 so something's up they're both the right size
+joint           	joint           	0.9785	This section briefly presents the Gújjolaay Eegimaa <*> its speakers and its varieties. we discuss aspects of the contact situation of the eegimaa language.
+adversative     	adversative     	0.9555	In other words, your first attempt was not a complete failure, it did not achieve the end goal,
+context         	context         	0.7782	how I felt he cried,
+adversative     	adversative     	0.8706	People want to learn more practical skills, for the most part the internet doesn't provide enough quality information yet.
+explanation     	adversative     	0.0404	47 to say it was unexpected is inaccurate, it implies that there was a well - founded expectation of something.
+adversative     	adversative     	0.8810	So the reason behind that shorter period of time is for you to get more of the original flavors from the grapes, not much of the secondary flavor
+explanation     	adversative     	0.3498	48 We can not encourage communalism or narrow - mindedness, no nation can be great
+causal          	joint           	0.0291	49 you ’ll get into a groove keep working at a high pace
+context         	context         	0.8171	He was five or so, they were playing some board game at the kitchen table.
+explanation     	explanation     	0.3950	You must avoid simply copying the grammar rules, however, this would technically turn your language into a code.
+joint           	joint           	0.9876	They declared their independence from Mexico drafted a constitution
+context         	context         	0.9441	He was promoted to the Pittsburgh Pirates from the minors the major league rosters expanded on september 1.
+contingency     	joint           	0.0070	50 if I wear more workout clothes, like just in my daily life, i 'll be more inclined to go to the gym
+joint           	joint           	0.9876	as we slammed the kitchen door shut retreated to the front room
+joint           	joint           	0.9383	My other one is tearing, falling apart.
+joint           	joint           	0.9893	that both her parents knew this discussed it with each other. "
+context         	context         	0.4806	And it takes a lot sometimes you're in therapy,
+joint           	joint           	0.9737	and when one is immersed in a foreign language setting and moves away
+contingency     	contingency     	0.6972	stay away from misogynist jokes you ’ve got an audience full of women ;
+causal          	causal          	0.8974	that you ’re all a bunch of failures i ’m flunking the entire class. ”
+adversative     	joint           	0.0102	51 The forecast is for a continued decline in strength to a tropical storm within 24 hours and a tropical depression within 36 hours., there will be very heavy rains and flooding along its path.
+explanation     	explanation     	0.4277	moral facts could be purged from what <*> to exist they do not perform an important explanatory function.
+context         	context         	0.8817	It ’s astounding to me i read this
+adversative     	adversative     	0.7680	5. Atoms are neither created nor destroyed during a chemical change, are instead rearranged to yield substances
+joint           	adversative     	0.0095	52 For instance, among the 24 aesthetic categories of poetry listed by Sikong Tu 司空 图 <*> in his celebrated treatise <*> only three or four categories can be regarded as related to the Western notion of beauty., <*> the category of li
+adversative     	adversative     	0.9338	it will immediately begin to lose strength., <*> it still will contain lots of rainfall
+adversative     	causal          	0.0556	53 Th- this person did not want to dance. she's just gon na watch.
+joint           	joint           	0.5612	is crushing ultrasounds having dutch cough drops.
+joint           	causal          	0.1685	54 And <*> I trembled did not wish again to speak with the lotos - faces.
+joint           	elaboration     	0.0618	55 there's quite a few deductions, of course — oh and the oh the — the f- the annual unemployment insurance, and uh —
+adversative     	context         	0.0097	56 With shoes as wide as a forearm, and a rigid torso of carved foam, she remained exuberant even caught in the traffic between halls, many hours into wearing the outfit.
+adversative     	adversative     	0.5213	didn't deduce much as remember —
+joint           	adversative     	0.1794	57 The parts that are just legend. myth.
+joint           	causal          	0.1416	58 Refusing to work or communicate demanding a new leader,
+adversative     	adversative     	0.9741	I do n’t dream about Renata, <*> it ’s thinking about renata that keeps me awake.
+context         	context         	0.5839	to not give up something is finished or accomplished.
+joint           	joint           	0.9886	dipping blowing.
+joint           	joint           	0.8182	But it will <*> take a tremendous step toward – to stop the violence,
+context         	causal          	0.0520	59 It's quite a large Canadian tournament, we went as the gliders team.
+joint           	joint           	0.9858	head on without delay,
+context         	adversative     	0.0025	60 Long years ago we made a tryst with destiny, now the time comes
+joint           	joint           	0.4170	he did that often, called me muscles.
+joint           	adversative     	0.0077	61 which the House of Representatives has already passed -- which the ways and means committee, <*> wrote --
+joint           	joint           	0.9756	2 cups water ( broth )
+joint           	causal          	0.2128	62 even though clouds surround us, many of our people are sorrowstricken
+joint           	joint           	0.9868	so you can check your positioning see what you're doing.
+explanation     	elaboration     	0.0960	63 In contemporary aesthetics, from the study of empathy to Freud ’s libido, to the evolutionary theory of beauty, to the focus on perception in aesthetic experience, more and more philosophers seek to answer the question of what makes an artwork beautiful in light of human physiology and psychology., the evolutionary theory regards artistic beauty as “ fitness signal ” <*> and our pleasant feeling <*> is engraved in our minds by the process of evolution,
+joint           	joint           	0.9613	Here they debated voted for or against all proposed laws.
+joint           	joint           	0.9863	given away by the city bought from street vendors at the event.
+adversative     	adversative     	0.9555	Such an organization is surely permissible, it has had the unfortunate <*> effect
+context         	context         	0.9332	Chubby guy kind of hovers i get the lights away from cara
+causal          	joint           	0.0058	64 when you bit down into the acrid resin jelly it flowed out and up and around, over teeth, gums and tongue.
+adversative     	adversative     	0.9586	The logic is that <*> all Wave 4 respondents appeared in the Wave 1 sample, not all would have been interviewed at wave 3 due to differential patterns of temporary attrition.
+joint           	joint           	0.9794	We start with the headline and flesh out the story,
+adversative     	causal          	0.2623	65 But you were in that half —, like, part of you was... "
+context         	context         	0.5326	The report comes north and south korea exchanged artillery fire yesterday.
+joint           	joint           	0.9878	that will allow fisherman to sell and catch more easily make importing food and fuel simpler.
+adversative     	adversative     	0.8980	and first you trust him but you read more
+context         	causal          	0.2869	66 Daniel Montalvo in September 2010, having left the elite group within scientology
+joint           	joint           	0.9737	as he ship dipped passed.
+adversative     	causal          	0.0150	67 To get her to talk, i was tired of lingua
+joint           	causal          	0.2480	68 but right now she had blood on her mind. water.
+joint           	causal          	0.0558	69 In the past decade, with the successful launch of the soil moisture and ocean salinity <*> satellite by the European Space Agency <*> the Aquarius / SAC-D satellite <*> and the soil moisture active passive <*> by the National Aeronautics and Space Administration <*> global sea surface salinity <*> observations from space have become possible a significant improvement has been made
+joint           	joint           	0.9898	I threw down my pen dashed down the hall.
+joint           	joint           	0.9037	So they are 3 times larger than us they have all the oil in the world.
+causal          	causal          	0.4089	Siméon Poisson reviewed Galois'paper on equation theory declared it " incomprehensible ".
+joint           	joint           	0.9667	she grasps and loses the words, grasps loses phrases
+adversative     	adversative     	0.4919	that all my products are geared towards the health of the hair even they're styling products.
+joint           	adversative     	0.0207	70 So you want to flirt with a guy or gal on MSN, AIM, Facebook Chat, or any other instant messaging service you don't want to look like a creep?
+elaboration     	joint           	0.1650	71 Basse Terre : green lush vegetation, mountainous with a sulphuric volcano.
+adversative     	adversative     	0.8834	She tries to sit down, i just keep on tugging
+causal          	causal          	0.5496	when one Immortals player was caught with their headset off. nearly half an hour, the team was deducted a point,
+adversative     	adversative     	0.9593	Pro-Beijing DAB's Starry Lee and Holden Chow were successfully elected in this constituency, pro-beijing veteran politician wong kwok - hing of ftu was defeated by 10,694 votes by james to.
+context         	context         	0.6839	Galois later wrote to his friends the night he died.
+elaboration     	explanation     	0.2133	72 and now the time comes we shall redeem our pledge, not wholly or in full measure, but very substantially.
+explanation     	elaboration     	0.1191	73 Microsoft's Internet Explorer 6 is one of the most successful software products ever measured by its durability and the massive numbers of people
+explanation     	explanation     	0.4530	but uh it's just that you have to watch out, cause, <*> it's bad for the brain.
+joint           	joint           	0.9879	so I check in every now and again just let you know how i've been feeling.
+adversative     	adversative     	0.4862	If the environmental agency group reports one number your neighbors report another number,
+causal          	joint           	0.4033	74 Korea substituted Park Joo-Ho in the 28th minute of the game due to injury was replaced by kim min-woo.
+causal          	causal          	0.4901	The Enemy's power had grown exponentially they had crushed everything in their path with harrowing little effort.
+causal          	causal          	0.4658	So then you just multiply, the whole thing by the square root of two, you get the square root of two over two.
+joint           	joint           	0.9866	Rinse off the leaves use the basil
+joint           	adversative     	0.0863	75 that's a d- — a whole different thing. ponies, that's a whole different thing.
+joint           	elaboration     	0.3537	76 to look like a double - edged diving knife. a christmas tree,
+joint           	joint           	0.9854	of preserving space artifacts providing outstanding access to u.s. and international visitors. "
+joint           	joint           	0.5086	From the first pad, many more will form. the or third pad will bear some flowers,
+causal          	adversative     	0.0779	77 So so far this morning I've just read a few studies <*> of general nuclear medicine a lot of stuff takes time
+causal          	joint           	0.0058	78 The hotel industry recognized Airbnb as a threat, in 2016, began a campaign
+explanation     	elaboration     	0.1155	79 most unpleasant, marked by the death of a new french - press pot.
+adversative     	adversative     	0.9092	Now, not to upstage our new President and Vice President, theirs has not been the only swearing in today.
+joint           	joint           	0.9886	Cara ’s face crumples up she hunches her thick shoulders.
+joint           	causal          	0.0021	80 yet they can not bring themselves to confront this President are choosing party over country.
+joint           	joint           	0.9776	whose monstrous forehead now shown in the dim moonlight whose vile hooves must paw the hellish ooze miles below,
+elaboration     	adversative     	0.0613	81 However, the sensitivity of satellite measured brightness temperature to SSS is quite low., the sensitivity of vertically polarized brightness temperature to sss variation is 0.4 to 0.8 k/psu for different observing angles and sea surface temperatures
+joint           	adversative     	0.0311	82 Although the power of some monarchs is limited by law, such kings and queens often rule along with an elected legislature
+joint           	joint           	0.9880	Be fluent in your own made up language start spreading this to your friends, family and strangers!
+causal          	adversative     	0.0467	83 and that's a really toxic thing for your mental health. i'm trying to break out of that,
+explanation     	explanation     	0.3198	This is important, <*> some of the eegimaa death prevention names and child - bearing names are given to eegimaa people from other communities.
+adversative     	adversative     	0.9651	Freezing the leaves whole doesn't work very well, <*> you can freeze it for months.
+joint           	joint           	0.9893	I took that brown trash thing, tucked a bag in it.
+context         	context         	0.4969	Today I'm doing another college day in my life. i just left starbucks,
+adversative     	adversative     	0.9390	I looked at my father he did n’t turn his head.
+adversative     	adversative     	0.8957	There are many different ways of playing Quidditch, the most commonly used set of rules are those
+explanation     	joint           	0.0292	84 So these have been awesome for hiking i highly recommend them,
+contingency     	contingency     	0.7072	( fewer you opt for larger - sized cupcakes )
+adversative     	adversative     	0.9751	Łódź today may not have the glitz and glamour of its heyday ;, there is a certain charm to łódź in its partially renovated façades and leitmotivs,
+adversative     	joint           	0.0771	85 It is not tied to talent or ability, is simply a tendency
+explanation     	joint           	0.0020	86 your " evil deeds " does some good, it supports life on the island.
+joint           	adversative     	0.0200	87 The samples we have are small in terms of numbers they are all preserved in formalin
+joint           	joint           	0.9094	Do you want to use all three of them just like one of them or?
+adversative     	adversative     	0.9719	She ’d be irritated by her own wet footprints on the battered wood of the hallway floor later, right now she had blood on her mind.
+joint           	context         	0.0049	88 and as proof of concept we apply these operators to two real - world GIS applications we generate the mutants.
+adversative     	adversative     	0.9606	Normalcy returned, never again would pachomius fully trust his former protégé.
+adversative     	adversative     	0.9722	The sand does distort the sheet a tiny bit, this is not a distortion
+explanation     	explanation     	0.4709	then why not make the word Birds'Vogelaviatiolaps'the suffix's'is added at the end for most languages at plurals.
+joint           	adversative     	0.0050	89 and I ’m flunking the entire class. ”, <*> the instructor calmly blinks one eye,
+joint           	joint           	0.9545	when people attempt to rectify feelings of ethnocentrism develop cultural relativism,
+causal          	causal          	0.5159	neither side could open the scoring in the first half it ended 0 – 0.
+causal          	causal          	0.6699	However, this fruitful period was short - lived, greece suffered badly under the ottoman empire,
+causal          	joint           	0.2487	90 Socotra is an eco - tourism system with limited infrastructure and new to the international tourist market, and the hotel accommodations are not quite like other destinations.
+joint           	joint           	0.9640	So 2009, 2010 World Cup. and i had a bit of some time off in 2011.
+joint           	joint           	0.9851	to look at sensitive material not get caught with it.
+adversative     	adversative     	0.9737	Objectively, this is not likely to help very much ; it may improve your emotional state.
+elaboration     	joint           	0.0936	91 Main Street is the primary retail section of Fort Lee, features stores such as borders and liquor stores,
+context         	context         	0.7870	Scientology defector arrested attempting to leave organization
+elaboration     	joint           	0.0132	92 Airbnb has raised more than $ 3 billion ( a $ 1 billion credit line )
+adversative     	adversative     	0.9598	NATO had never rescinded it, they had and started some remilitarization.
+contingency     	explanation     	0.1121	93 that we should only accept that something exists it plays an indispensable explanatory role
+causal          	joint           	0.0215	94 your joke is n’t ready you need to practice more.
+joint           	joint           	0.9796	In 1661, after further experiences as a soldier of fortune, he joined the Russian army under Tsar Aleksei I, in 1665 was sent on a special mission to england.
+adversative     	joint           	0.1270	95 produced asexually than the result of sexual reproduction.
+joint           	joint           	0.9302	So this is a warmer climate Sauvignon Blanc, well balanced acidity, 2018 vintage, very crisp and fresh it is unwooded.
+joint           	adversative     	0.0085	96 I wanted to stay at the game longer. her mom wanted to take her home early,
+joint           	joint           	0.9572	because China has our jobs mexico has our jobs.
+causal          	joint           	0.0022	97 it overheats. stalls out.
+causal          	causal          	0.5454	Ambiguity frightens arrogant people it suggests imperfection, change and lack of certainty
+adversative     	joint           	0.0953	98 " He's hanging out with the celebrities, has kind of become the same sort of celebrity
+adversative     	adversative     	0.9308	They have ideas they can not formulate them in the right way.
+causal          	adversative     	0.0458	99 but I did, probably just sit in there,
+context         	joint           	0.0856	100 She stayed i lit the fire.
+elaboration     	joint           	0.0428	101 sworn in today on a book of Hebrew Scripture owned by the rabbi,
+joint           	joint           	0.9824	Yesterday Mohamed received VIP attention at Google headquarters in California at the Google Science Fair — tomorrow he plans to meet international dignitaries at the united nations headquarters in new york.
+joint           	elaboration     	0.0163	102 This is referred to in the emblem and you hear the dwellers of łódź <*> calling themselves " the boat people ".
+joint           	joint           	0.9317	I wan na rewind it hear that back again.
+context         	context         	0.6230	My friend Andrea is a biology major we did stop
+adversative     	joint           	0.0799	103 which he indulged in quite casually for which he suffered terrible bouts of guilt afterwards.
+joint           	joint           	0.9853	that is written in html and javascript runs on most browsers
+context         	context         	0.5513	we ’d have to wait an hour the plaster set real solid.
+causal          	joint           	0.0050	104 We can we have wind turbines.
+joint           	joint           	0.9869	which can then be expressed through language stored in memory for future use.
+elaboration     	joint           	0.0275	105 the built - in skip pattern resulted in a large number of cases scored missing
+causal          	causal          	0.3401	cause I asked him about it, he said
+causal          	causal          	0.6124	but then my neighbor came outside like, things got kind of awkward.
+joint           	joint           	0.9761	until the thousands one seemed motionless the daily one was no longer a mere mist upon its scale.
+joint           	joint           	0.9875	of building large hotels renting rooms within those hotels to their customers.
+joint           	joint           	0.9237	but I've been doing like working from like half an hour to an hour and taking like 10 minute breaks.
+joint           	joint           	0.9839	Why did you decide to take the acoustic fate of public domain works into your own hands, how did you go about it?
+joint           	joint           	0.9556	Uncover fluff with a fork.
+causal          	causal          	0.5775	She also surprised me on my birthday, now it's my turn.
+joint           	joint           	0.9859	for our customers to laugh about enjoy.
+context         	joint           	0.1648	106 Parents prosecuted homeopathic treatment leads to daughter's death
+causal          	causal          	0.5354	but this waned, it seemed that his political activism had priority.
+elaboration     	joint           	0.0033	107 so yeah we're just gon na kind of roll with whatever happens today, just chill,
+causal          	causal          	0.4032	The result <*> was obtained in another way ( you have to'force feed'the ros,
+joint           	joint           	0.9880	dipping blowing,
+joint           	joint           	0.8621	I asked this not only as a question of the methods, but of the circumstances.
+context         	contingency     	0.4662	108 Quinoa will continue cooking for a bit even you take it off the heat.
+context         	explanation     	0.0727	109 Women defy the laws of purse - space, <*> the sky is the limit.
+context         	causal          	0.1397	110 We had the ants in an observation nest, i could just look at them for hours,
+joint           	joint           	0.9563	waving your arms signalling that your own is not functional.
+context         	joint           	0.0018	111 Theravada Buddhist monks are also supposed to avoid material temptations as such, are not allowed to touch money,
+joint           	joint           	0.9864	He was incredibly learned was a strong advocate for freedom and the rule of law.
+joint           	elaboration     	0.0391	112 Incidentally, there are twenty columns, these are reflected in the pool in front,
+explanation     	causal          	0.2078	113 It is widely accepted that the corrections of the sea surface and atmospheric effects are essential for remote sensing of SSS, these effects could alter the value of sensor - measured brightness temperature
+joint           	joint           	0.9885	receiving stimuli translating it into nervous impulses
+contingency     	contingency     	0.8635	and I highly recommend them, especially you're looking for like a lighter shoe
+causal          	joint           	0.0034	114 — which defined the influential aesthetics of Edmund Burke <*> and Immanuel Kant, and became an iconic discourse in western aesthetics —
+elaboration     	elaboration     	0.4824	its two hundred defenders, under Travis, fought fiercely from their refuge in an old mission known the alamo.
+context         	context         	0.6220	Did you think you created it
+joint           	joint           	0.9764	and Rachel kissed him smiled
+joint           	joint           	0.5552	Demosisto's Nathan Law earned a surprise victory as second place in the constituency with 50,818 votes, becomes the youngest legislative council member in hong kong's history.
+context         	joint           	0.0056	115 that have been missed cleaning.
+context         	joint           	0.0957	116 “ Your secretary ’s calling, you need me to answer it?
+adversative     	adversative     	0.9499	I wanted to push against his hand like a cat the instinct that comes with being thirteen, the half - understood caution that makes a girl timid, or wild, the shyness told me to just walk.
+elaboration     	joint           	0.0687	117 I found out on the fifth that was
+joint           	joint           	0.9808	uh, chewing up the human experience, turning it into, some kind of consumer need.
+joint           	adversative     	0.0066	118 I feel like I've only had the black since last year Halloween though. was it the halloween before?
+explanation     	joint           	0.0081	119 Actually I find many connections between mathematics and literature almost all the thing <*> are also seen in literature and in writing
+contingency     	contingency     	0.6103	to destroy psychological warfare tools the enemy does not stop the propaganda broadcast within 48 hours
+causal          	joint           	0.0025	120 what about them is different related to living in this strange way.
+explanation     	causal          	0.2176	121 This was my favorite area in the park, maybe it was n’t as crowded yet
+causal          	causal          	0.5793	In South America, early civilizations developed along the coast the high andes and the inhospitable amazon basin made the interior of the continent less favorable for settlement.
+joint           	joint           	0.9795	that is, nobody planned to teach it, no one made an effort
+causal          	causal          	0.7983	And then with the red wines from the Signature they only spent eight months in the French oak. the reason behind that shorter period of time is for you to get more of the original flavors from the grapes,
+context         	causal          	0.3654	122 so it's really good we have multiple friends over,
+explanation     	elaboration     	0.1603	123 He was also a friend of Alexander Hamilton, some of their correspondances from 1790 to 1801 now reside in the national archives.
+elaboration     	joint           	0.0084	124 I could see the many palps of its complicated mouth flickering feeling
+joint           	context         	0.0047	125 Isn't it fun! i do these!
+joint           	joint           	0.9839	That is why, today, the House will again pass the George Floyd Justice in Policing Act send it to the senate and the president's desk
+adversative     	adversative     	0.7252	The distortion is not large, <*> it deviating slightly from a straight line.
+context         	joint           	0.0049	126 you should make sure that your clothing covers at least your shoulders and your knees some places may require that you wear ankle - length pants or skirts and long sleeved tops.
+joint           	elaboration     	0.0288	127 USI's art gallery, like 189 other educational galleries and museums around the country, is a recipient of a major Warhol donor program, this program is cultivating new interest in warhol's photographic legacy.
+joint           	joint           	0.9891	so you can have some delivered go to the local location.
+joint           	joint           	0.7673	Epistemic pollution may stem not only from counterfeit institutions of knowledge production but from bad behavior by legitimate institutions. 9
+contingency     	contingency     	0.6271	Pack one room at a time possible,
+joint           	joint           	0.9891	until Pag yelped ducked out of reach.
+elaboration     	joint           	0.0190	128 Buddhist monks are meant to avoid sexual temptations, in particular they do not touch women
+adversative     	joint           	0.0053	129 The idea is to play fish <*> you ’re supposed to do what it says.
+joint           	joint           	0.9823	North Americans keep more distance maintain a large “ personal space. ”
+context         	causal          	0.1181	130 but of course has become a great deal more popular getting all this publicity.
+adversative     	adversative     	0.9177	we've tried so far haven't succeeded,
+joint           	joint           	0.9872	So, we hold it like this. and you just do a little toss!
+joint           	joint           	0.9755	meeting linguists like Henry Sweet and Paul Passy attending lectures at institutions like oxford university.
+joint           	joint           	0.9905	I take her to the food court buy her an m&m cookie
+adversative     	adversative     	0.8719	Not all the time, it ca n’t be a laugh a minute.
+adversative     	adversative     	0.9738	These hotels may not be the most luxerious, they do provide air - conditionting, televisions, and refrigerators in all of the rooms.
+causal          	causal          	0.4328	So hopefully you guys find it somewhat interesting, <*> i 'll keep doing it.
+joint           	adversative     	0.0139	131 Of course, a wink can mean different things in different societies., a wink can mean different things in the same society.
+context         	context         	0.4994	There are some nice beaches and good fishing you've toured the island.
+joint           	joint           	0.9876	We waved called,
+joint           	causal          	0.0067	132 I put way too much emphasis on what I look like, the fact <*> is huge for me,
+adversative     	adversative     	0.6341	Thus, <*> many people mistook the organization ’s political beliefs for the consensus view among United States pediatricians — the peak body for pediatric workers, the american academy of pediatrics, has a much more positive view of gender dysphoria
+joint           	joint           	0.9457	swirling away horribly under the arched, carven bridge, staring back with the sinister resignation of calm, dead faces.
+adversative     	adversative     	0.9677	In a representative democracy, however, the citizens do not govern directly., they elect representatives
+elaboration     	context         	0.2728	133 We have unlocked the doors that a quarter of a century stood between the united states and the people's republic of china.
+explanation     	elaboration     	0.1135	134 His use of the Presidency <*> has in many ways been unconstitutional., altering law
+adversative     	adversative     	0.9707	I can still smell, not to my like fullest capability.
+joint           	context         	0.0055	135 when we step out from the old to the new, an age ends,
+joint           	joint           	0.9851	They selected Henry Smith, leader of the Independence Party, as governor of Texas placed sam houston, a former soldier <*> in charge of its small military force.
+adversative     	adversative     	0.4369	Despite his conservative background, in years nida became increasingly ecumenical and new evangelical <*> in his approach.
+causal          	contingency     	0.0353	136 ( those are, of course less frequented by other tourists you might find yourself alone at a spectacular waterfall in the middle of nowhere -
+elaboration     	joint           	0.0545	137 Simply put, cognition is thinking, it encompasses the processes
+joint           	causal          	0.1108	138 Monks are an integral part of Buddhism in Thailand, thai men are generally expected to spend a certain amount of time <*> at least once in their lifetime.
+causal          	adversative     	0.0265	139 that he was a little sad also at the discovery. <*> it was also a part of his love for his grandmother.
+causal          	causal          	0.5485	We're moving more towards the Internet at this point, the internet is a much easier, safer way for a person
+adversative     	adversative     	0.8750	Plastic - type twist ties will hold up in the wash, may or may not melt in your dryer.
+adversative     	joint           	0.3412	140 and it made me feel a little buzzy it did n’t even feel good,
+adversative     	adversative     	0.8665	And I am happy to tell people, at first <*> it's very daunting
+joint           	joint           	0.9752	With single servings like this, you can decide which flavor(s) you like best proceed to making bottles,
+explanation     	elaboration     	0.1582	141 people may still directly vote on certain issues., a referendum or proposed law might be placed on the ballot
+joint           	joint           	0.9684	that differed in shape and size, which could join together.
+joint           	joint           	0.9852	to choose their own fate to improve their chances for a better life.
+adversative     	adversative     	0.7842	We show opt - out advertising to anonymous visitors than ask for donations.
+joint           	joint           	0.9848	Wikinews reporters attended the opening spoke to donors, exhibit organizers and patrons.
+explanation     	joint           	0.1435	142 We're on a different rotation tomorrow stay tuned
+causal          	explanation     	0.1726	143 People have different skills, talents, and interests, they will be better at some jobs than at others.
+joint           	joint           	0.9856	to express my thanks for that support and to express appreciation for the help
+joint           	joint           	0.9860	The brain then processes this information uses the relevant pieces
+context         	causal          	0.0522	144 The bunch that no one picked for their side at football or hockey, that was the glue
+causal          	joint           	0.0275	145 that School of Open by Creative Commons is highly reputed around the world addressing universal access to education.
+joint           	joint           	0.6079	which is calculated as ( 6.8 + 7.2 ) / 2 equals 7.
+elaboration     	adversative     	0.0107	146 Properly - fitted ballet shoes should be snug, not so tight
+elaboration     	adversative     	0.2845	147 So, you can kind of distinguish it's like sweet or salty or tart um,
+joint           	joint           	0.9827	while the men were getting drunk singing.
+explanation     	joint           	0.0011	148 The hashtag took on a life of its own, was used in messages on twitter over one million times by thursday night.
+joint           	joint           	0.9835	Just more drinking shooting.
+adversative     	joint           	0.1319	149 they 'll say one word, they 'll say it really, like pretty clear,
+joint           	joint           	0.9893	as it swayed vibrated,
+joint           	causal          	0.0061	150 Norton spent most of his early life in South Africa. the death of his mother in 1846 and his father in 1848, he sailed west,
+joint           	joint           	0.4658	of hearing understanding –
+contingency     	contingency     	0.4456	if a factory produces 50,000 cars each year, it can set up an assembly line with huge machines and workers
+joint           	joint           	0.9272	One dial records days, another thousands of days,
+adversative     	adversative     	0.9666	this step isn't always necessary, it's better to be safe
+joint           	joint           	0.3881	So what we did was we drove around the entire perimeter of the lake you get all these incredible views of the mountains and the lake,
+joint           	adversative     	0.2272	151 They made the trip twice were turned down both times.
+joint           	adversative     	0.0208	152 we can get the good aspects of each party rejecting the bad parts of both.
+adversative     	causal          	0.2188	153 so one year we got to be in the Press, they have now stopped adult ads.
+joint           	joint           	0.4962	Mohamed was a VIP guest at the Google Science Fair this weekend, was able to meet finalists at the event
+elaboration     	elaboration     	0.4259	that the addition of an artificial tail during ontogeny can produce postural and locomotory changes in chickens, consistent with the posture and kinematics inferred non-avian dinosaurs
+joint           	joint           	0.9841	And I'm not that good or, i'm not very strong.
+joint           	joint           	0.9674	from asking girls refining profiles --
+joint           	joint           	0.9889	pour 300 ml <*> of vodka into a jug fill each bottle with skittles.
+adversative     	adversative     	0.9744	His parents were always too busy and often a little too serious, his grandmother had a sense of peace about her, a lightness that lifted his spirit.
+joint           	joint           	0.9086	he posted a.348 batting average with 12 home runs and 43 RBIs in 59 games for the Rice Owls. he led the owls with 67 runs
+context         	contingency     	0.3396	154 Wait until the fourth or fifth day of the festival the crowds will have dwindled.
+context         	adversative     	0.0062	155 Thai men generally wear pants, most thais view an adult man <*> as fairly ridiculous ;
+context         	joint           	0.0027	156 So I have some coffee i 'll be focusing entirely on chem and neuro today,
+joint           	adversative     	0.0380	157 we've already spent fifty for him, i want him to spend another hundred.
+adversative     	adversative     	0.9573	Honestly, <*> I would have really liked to have a double bed in this room,, unfortunately, with the space <*> it's basically just enough
+joint           	joint           	0.9846	1 Harvest prune.
+joint           	joint           	0.9880	like I've made it my own decorated it
+context         	joint           	0.0036	158 Play the seekers look for the snitch.
+joint           	joint           	0.9884	that they would fling themselves through the glass attack me,
+causal          	causal          	0.5378	my nostrils tried to close against the perfume - conquering stench of the world's dead ; truly, in this unplaced and forgotten spot had all the flesh of the churchyards gathered
+context         	context         	0.5307	So the mites do n’t see them they jump.
+joint           	joint           	0.9872	They have lunch and siesta, go back to work for a few hours in the late afternoon.
+elaboration     	elaboration     	0.4193	After his retirement in 1925, Jespersen remained active in the international linguistic community. to continuing to write,
+adversative     	adversative     	0.9736	most people <*> do it all the time. i'm not that good or,
+context         	context         	0.9317	For example, the Weatherspoon Art Museum at the University of North Carolina at Greensboro saw attendance levels reach 11,000 visitors it exhibited its warhol collection in 2010,
+elaboration     	explanation     	0.0935	159 that ’s a completely different matter., leaving one eye open makes a blink a wink.
+causal          	causal          	0.8638	however, his character did not tolerate well the strict and sombre way of life at the school, he soon decided to return home.
+adversative     	adversative     	0.9587	which we did not seek accepted as our responsibility under the constitution.
+context         	elaboration     	0.0832	160 suggesting caution using simple morphological parameters
+joint           	joint           	0.8273	The population of Łódź soared from some 4,000 people in the 1830s 40,000 in 1865
+elaboration     	joint           	0.0310	161 The airport offers free short term parking ( half - hour free ).
+causal          	causal          	0.5977	We have turned the page to a new chapter in the history of our democracy, i am full of hope.
+context         	joint           	0.0100	162 I love making videos it's so nice to have that support.
+joint           	joint           	0.9797	if somebody wakes up one morning suddenly no longer is funny,
+joint           	joint           	0.9851	Pachomius became very ill seemed to be on the verge of death.
+context         	context         	0.5427	with the long queues outside the station the last ballot there was cast at 2:30 the next day, four hours the last person was allowed to join the queue.
+context         	context         	0.5621	that, she didn't outgrow it she was five or something?
+contingency     	contingency     	0.5972	if an element such as copper consists of only one kind of atom, it can not be broken down into simpler substances,
+context         	context         	0.7981	It was known that a moving body exchanges its kinetic energy for potential energy it gains height.
+causal          	causal          	0.5090	he needed to leave at eight. betty had made christmas eve dinner
+joint           	joint           	0.9622	A partnership with others, it symbolizes the relentless spirit of American ingenuity. it shows what we can achieve, what more we can discover, not just about distant places, but about our very own planet and climate, like nasa ’s earth system observatory
+joint           	joint           	0.9856	He was inspired by the work of Danish philologist Rasmus Rask as a boy, with the help of rask's grammars taught himself some icelandic, italian, and spanish.
+context         	causal          	0.0709	163 Well that ’s a significant threat to the Soviet Union, to Russia there was no longer any soviet union,
+joint           	joint           	0.6139	Holt bats left - handed throws right - handed.
+joint           	joint           	0.6896	Andrzej Wajda's movie, Promised Land <*> depicts those times is a worthwhile introduction to the city's bustling history.
+joint           	joint           	0.9758	For God alone is infallible, his being is grace and mercy.
+joint           	joint           	0.9883	Inclusive institutions guarantee the right to private property, to an impartial legal system promote a society
+joint           	contingency     	0.0118	164 Cook the quinoa in the oven for roughly 20 minutes, or most of the liquid is gone.
+joint           	joint           	0.9900	They are of us will remain of us
+joint           	joint           	0.9887	Set a timer for ten minutes, take a nap,
+adversative     	adversative     	0.9625	and it's coming probably — probably — from the Middle East. we don't know.
+contingency     	joint           	0.0070	165 if the word Bird is'Vogelaviatiolap'why not make the word birds'vogelaviatiolaps '
+causal          	causal          	0.6410	in supporting my cause they believed it was right --
+joint           	adversative     	0.0427	166 th- they 'll have like twenty words or whatever, they 'll just ask for one thing.
+joint           	joint           	0.7430	who would help, <*> this poet - turned - fiction - writer connect her with editors :
+adversative     	adversative     	0.9702	Ideally we would have increased tail mass and reduced pectoral limb mass, unfortunately, this is not experimentally feasible.
+joint           	joint           	0.9845	for studying writing.
+joint           	joint           	0.9195	Failed attempts are viewed as merely part of the process seen as a very useful way
+adversative     	adversative     	0.9378	Cuban customs can be strict, they sometimes go easy on tourists.
+contingency     	context         	0.0579	167 ( not to mention being out in the elements they are work clothes ).
+joint           	joint           	0.9898	who meet me hear me speak
+causal          	joint           	0.2589	168 gotten i didn't bother to <*> blow dry my hair.
+joint           	adversative     	0.0168	169 there were 300,000 more Republicans registered in the city of Philadelphia than Democrats, it is a source of satisfaction to me that tonight there are 260,000 more democrats registered.
+joint           	joint           	0.9827	because she had the lemon. the hot tea.
+adversative     	adversative     	0.9513	Soon after his arrival, Theodorus was the new de facto leader, he claimed to be only acting on behalf of horsiesios.
+context         	contingency     	0.2436	170 Therefore, <*> make sure that your hotel offers parking you book.
+joint           	joint           	0.9892	so just chill, enjoy our last day in beautiful glacier national park!
+joint           	joint           	0.9888	the system can elucidate scientists ’ movement between different disciplines relate those labor flows to scientific advances.
+joint           	causal          	0.0951	171 We're not having any plans today right now we are at like a river waterfall area,
+adversative     	adversative     	0.9533	Given that our moral beliefs are influenced by evolutionary forces, not by the moral facts,
+adversative     	adversative     	0.9602	I still do the odd chapter, i am a bit delinquent
+joint           	joint           	0.9670	I have felt nauseous and <*> a bit jet - lagged, a bit cloudy in my head, the worst thing for me has been headaches.
+elaboration     	elaboration     	0.4567	America's obsession with celebrity culture is as strong today it was
+adversative     	adversative     	0.5007	that this is cool. but they come at me on a sunday morning,
+joint           	joint           	0.9851	that her passport was taken away from her she was forced to work in the engine room.
+causal          	joint           	0.0030	172 After a while I needed to start thinking about an internship for my M.Sc. studies, decided to write a couple of professors.
+joint           	joint           	0.9860	Place the bottles in your dishwasher put on an intensive cycle.
+adversative     	adversative     	0.9001	so it's often easiest to start the seeds indoors of risking that they 'll get damaged by frost.
+joint           	joint           	0.9889	until it jumps up walks away.
+context         	joint           	0.0116	173 I don't feel really sick i smell anything at the moment.
+adversative     	adversative     	0.7894	he was encouraged to exercise in moderation not restrain himself from " violent " bouts in an attempt
+joint           	joint           	0.8247	He currently stars in Sky One's fantasy - romance series, A Discovery of Witches, as Professor Matthew Clairmont is filming matthew vaughn's kingsman prequel, the king's man.
+explanation     	joint           	0.0015	174 Considering the importance of the proper functioning of attention, of its involvement in the regulation of thoughts and emotions,
+adversative     	contingency     	0.0130	175 but you can't really taste it to its fullest that makes any sense.
+contingency     	joint           	0.3350	176 If your drawstring is longer than your pinkie you should cut it off
+context         	causal          	0.1267	177 I went back the next Tuesday night there was almost no one there,
+adversative     	adversative     	0.9568	The drink was mildly popular for the last few months, of course has become a great deal more popular
+joint           	joint           	0.9854	What analysis did you perform on the specimens what equipment was used?
+causal          	causal          	0.8197	and that I needed to disconnect from her she was suppressive.
+context         	context         	0.8419	which he played being asked by fellow actor and friend tom welling, <*> and the director of the movie,
+joint           	joint           	0.9870	to visit explore,
+joint           	joint           	0.9836	Welcome back to my channel welcome
+joint           	joint           	0.9473	All of Dvořák's nine operas but his first have librettos in Czech were intended to convey czech national spirit,
+joint           	causal          	0.0469	178 You got the two, you take the square root of two,
+explanation     	joint           	0.0419	179 and you have all seen water boil at home, you are familiar with steam.
+joint           	joint           	0.9857	because we release all of our software under the Open Source GPL license release our content under a creative commons license.
+joint           	joint           	0.8863	In Tyler ’s mind he could see her face grow taut, lose color, and, for the only time <*> she began to cry.
+causal          	causal          	0.8917	I can't vlog tomorrow i'm just not gon na have the mental energy or the physical energy
+joint           	joint           	0.9817	but we came to United States now we are here
+context         	context         	0.9497	the Scientology property in question was returned by mail to the organization by Montalvo shortly he left the sea org.
+joint           	joint           	0.9486	Another approach is to buy five bottles of vodka and five bags of Skittles. separate the candy
+adversative     	adversative     	0.7267	Well, I know., that – that was the end of our thing,
+causal          	causal          	0.4009	the official moniker is now the New American City cleveland has rightfully earned the reputation as a model of effective public - private partnership for urban planning.
+elaboration     	joint           	0.0289	180 He had no political power, his influence extended only so far
+causal          	joint           	0.0126	181 That started me out on books i have amassed quite a few since then.
+adversative     	adversative     	0.7573	because I could just like post a vlog, um the footage was like so random, and all over the place.
+causal          	adversative     	0.0710	182 2,300 sophisticated vehicles, they ran, the enemy took them.
+context         	joint           	0.0092	183 and in 1877, brahms and the prominent critic eduard hanslick, also a member of the jury, made themselves known to him.
+adversative     	adversative     	0.8985	I do n’t like the doctor, i do n’t know why.
+causal          	causal          	0.6300	However, Daniel refused, he wanted to study mathematics.
+adversative     	contingency     	0.0154	184 who believed that children should always be told the truth adults understood it,
+adversative     	explanation     	0.1134	185 Um, which you always want to focus on the moisture of your hair, the colder months in some areas of the world can be brutal.
+joint           	joint           	0.9724	If you do not have any religious beliefs, are for another reason unwilling to appeal to your patron deity,
+causal          	causal          	0.4223	Airbnb has reconfigured that model, and its 2008 launch, 150 million travelers have taken advantage of 3 million airbnb listings in more than 191 countries.
+adversative     	causal          	0.0082	186 So I'm just gon na let them have their peace and quiet, i just finished my snack.
+elaboration     	joint           	0.1764	187 In the core of the city, named avenues run north / south are named after us cities, generally in repeating alphabetical order
+explanation     	elaboration     	0.0945	188 it consumes about 18 % of the total generated electricity of total energy consumption in residential sectors shown in figure 2
+joint           	joint           	0.9849	There's no l-, there's no lead, there's no focus.
+adversative     	joint           	0.4357	189 This theory built on the notion of construction from traditional and pedagogical grammars than the rule - based formalisms
+elaboration     	joint           	0.0129	190 Most fields, on the other hand, <*> lack a single all - encompassing organization membership information is instead distributed across many disjoint lists, such as web - based faculty directories for individual departments.
+adversative     	adversative     	0.9726	Countries <*> have some form of representative democracy, the people may not have as much political power
+joint           	joint           	0.9783	her parents both worked in the vineyards, <*> she would play in my courtyard in the after - noons.
+context         	context         	0.8269	without having to pick it out of 100 others you get there.
+joint           	joint           	0.9787	Valley Metro #13 goes west to S 75th Ave along S Buckeye <*> from Terminal 2. one can take the phx skytrain over to the nearby 44th & washington st station
+elaboration     	joint           	0.0904	191 Take up as much space you can
+adversative     	adversative     	0.9709	Norton initially made a living as a businessman, he lost his fortune
+explanation     	adversative     	0.1945	192 It's uncompleted though, the word is part of the term'aviation '
+context         	adversative     	0.0034	193 and Mérida slowed to a more sleepy provincial capital development picked back up in the late 20th century.
+explanation     	causal          	0.1443	194 Well there ’s no defense against Soviet aggression, <*> that ’s gone.
+adversative     	context         	0.0047	195 It ’s another low - grade moment of horror, i think about that particular time with my mother
+context         	context         	0.7247	but also it's really hard i'm editing.
+adversative     	adversative     	0.8414	the shortest distance is not a straight line the arc of a great circle.
+joint           	joint           	0.9411	“ In San Francisco we got earthquakes, there were wood sprites in golden gate park.
+joint           	joint           	0.9886	While dancing ballet takes dedication requires serious training,
+adversative     	joint           	0.0313	196 Some schools may have students wear the same thing others may just require any type of leotard and tights and sometimes ballet skirts.
+joint           	joint           	0.9341	leave this article complete that work.
