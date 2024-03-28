@@ -16,7 +16,7 @@ do
     do
         for level in 1 2
         do
-            python3 kfold_base.py --do_vector \
+            python3 kfold_base.py --do_train \
                                   --dataset="pdtb2"  \
                                   --label_file="labels_1.txt" \
                                   --relation_type="explicit" \

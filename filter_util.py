@@ -8,6 +8,86 @@ from collections import defaultdict
 from utils import labels_from_file, cal_distance
 import random
 
+random.seed(106524)
+
+def read_json(data_file, relation_type="explicit", label_level=1):
+    all_res = []
+    all_samples = []
+    label_file = os.path.join(os.path.dirname(data_file), "labels_{}.txt".format(label_level))
+    label_list = labels_from_file(label_file)
+    print(label_list)
+
+    with open(data_file, "r", encoding="utf-8") as f:
+        lines = f.readlines()
+        for line in lines:
+            line = line.strip()
+            if line:
+                """
+                sample = json.loads(line)
+                if sample["relation_type"].lower() not in relation_type:
+                    continue
+                relation_class = sample["relation_class"]
+                conn = sample["conn"]
+                all_res.append((relation_class, conn))
+                all_samples.append(line)
+                """
+                sample = json.loads(line)
+                if sample["relation_type"].lower() not in relation_type:
+                        continue
+
+                all_level_relation_class = sample["relation_class"].split("##")[0].split(".")
+                if len(all_level_relation_class) >= label_level:
+                    relation_class = all_level_relation_class[label_level-1].lower()
+                else:
+                    relation_class = None
+                if (relation_class is None) or (relation_class not in label_list):
+                    continue
+
+                relation_class = sample["relation_class"]
+                conn = sample["conn"]
+                all_res.append((relation_class, conn))
+                all_samples.append(line)
+
+    return all_res, all_samples
+
+
+def read_txt(data_file):
+    all_res = []
+    with open(data_file, "r", encoding="utf-8") as f:
+        lines = f.readlines()
+        lines = lines[1:]
+        for line in lines:
+            line = line.strip()
+            if line:
+                items = line.split("\t")
+                all_res.append((items[0], items[1], items[2]))
+
+    return all_res
+
+
+def read_npz(vector_file):
+    with np.load(vector_file) as dataset:
+        all_vectors = dataset["vectors"]
+        all_labels = dataset["labels"]
+
+    return all_vectors, all_labels
+
+
+def get_per_label_threshold(all_distances, all_label_ids):
+    id_set = set()
+    for idx in all_label_ids:
+        id_set.add(int(idx))
+    
+    total_size = len(list(id_set))
+    label_threshold = []
+    for idx in range(total_size):
+        cur_distances = all_distances[all_label_ids==idx]
+        average_score = np.average(cur_distances)
+        label_threshold.append(float(average_score))
+    print(label_threshold)
+    return label_threshold
+
+
 def filter_samples_with_distance_per_label(
     dataset="pdtb2",
     label_level=1,

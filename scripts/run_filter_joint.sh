@@ -1,6 +1,7 @@
 # <<"COMMENT"
 python3 filter_joint.py --do_train \
                         --dataset="pdtb2"  \
+                        --model_type="two-encoder" \
                         --label_file="labels_1.txt" \
                         --relation_type="explicit" \
                         --min_confidence=0.5 \

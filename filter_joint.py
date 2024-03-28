@@ -61,6 +61,7 @@ def get_argparse():
     parser.add_argument("--do_train", default=False, action="store_true")
     parser.add_argument("--do_dev", default=False, action="store_true")
     parser.add_argument("--do_test", default=False, action="store_true")
+    parser.add_argument("--is_hard", default=False, action="store_true")
     parser.add_argument("--min_confidence", default=0.0, type=float, help="The confidence of a prediction (logit)")
     parser.add_argument("--train_batch_size", default=8, type=int)
     parser.add_argument("--eval_batch_size", default=24, type=int)
