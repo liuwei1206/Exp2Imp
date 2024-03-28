@@ -3,5 +3,9 @@
 test.py
 data/dataset/pdtb2
 data/dataset/pdtb3
+data/gum7/base_preds
+data/gum7/kfold_preds_106524
+data/gum7/kfold_vectors_106524
+data/gum7/vectors
 data/result
 logs
