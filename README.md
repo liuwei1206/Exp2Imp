@@ -1,5 +1,5 @@
 # What Causes the Failure of Explicit to Implicit Discourse Relation Recognition?
-Code for the NAACL 2024 paper "What Causes the Failure of Explicit to Implicit Discourse Relation Recognition?"
+Code for the NAACL 2024 paper "[What Causes the Failure of Explicit to Implicit Discourse Relation Recognition?](https://arxiv.org/pdf/2404.00999.pdf)"
 
 If any questions, please contact the email: willie1206@163.com
 
