@@ -13,6 +13,8 @@ Then you need to download roberta-base from [here](https://huggingface.co/robert
 
 Please refer to the preprocessing.py in [ConnRel](https://github.com/liuwei1206/ConnRel) repository.
 
+During this project, we annotate a small number of examples, which you can find in "data/dataset/anno_100".
+
 **For Gum dataset**
 
 Since the Gum dataset is publicly available, we release the processed corpus in "data/dataset/gum7".
