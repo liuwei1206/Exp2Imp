@@ -33,7 +33,14 @@ Simply do `sh scripts/run_E2I.sh` or `sh scripts/run_I2I.sh`. Please choose the 
 
 You can cita this paper through:
 ```
-Wait for update....
+@misc{liu2024causes,
+      title={What Causes the Failure of Explicit to Implicit Discourse Relation Recognition?}, 
+      author={Wei Liu and Stephen Wan and Michael Strube},
+      year={2024},
+      eprint={2404.00999},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
 ```
 
 
