@@ -33,14 +33,23 @@ Simply do `sh scripts/run_E2I.sh` or `sh scripts/run_I2I.sh`. Please choose the 
 
 You can cita this paper through:
 ```
-@misc{liu2024causes,
-      title={What Causes the Failure of Explicit to Implicit Discourse Relation Recognition?}, 
-      author={Wei Liu and Stephen Wan and Michael Strube},
-      year={2024},
-      eprint={2404.00999},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL}
+@inproceedings{liu-etal-2024-causes,
+    title = "What Causes the Failure of Explicit to Implicit Discourse Relation Recognition?",
+    author = "Liu, Wei  and
+      Wan, Stephen  and
+      Strube, Michael",
+    editor = "Duh, Kevin  and
+      Gomez, Helena  and
+      Bethard, Steven",
+    booktitle = "Proceedings of the 2024 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (Volume 1: Long Papers)",
+    month = jun,
+    year = "2024",
+    address = "Mexico City, Mexico",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2024.naacl-long.150",
+    pages = "2738--2753",
 }
+
 ```
 
 
